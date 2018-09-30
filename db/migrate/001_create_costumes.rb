@@ -8,6 +8,10 @@ class CreateCostumes < ActiveRecord::Migration[5.1]
       table.string :size
 
       table.timestamps null: false
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0b520c4b2ad4aea358a00909d2700cbe1e6122cb
       end
     end
 end

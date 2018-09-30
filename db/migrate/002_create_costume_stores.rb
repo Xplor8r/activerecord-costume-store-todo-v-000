@@ -9,7 +9,11 @@ class CreateCostumeStores < ActiveRecord::Migration[5.1]
       table.float :num_of_employees
       table.datetime :closing_time
       table.datetime :opening_time
+<<<<<<< HEAD
       table.timestamps null: false
+=======
+
+>>>>>>> 0b520c4b2ad4aea358a00909d2700cbe1e6122cb
     end
   end
 end

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class CreateHauntedHouses < ActiveRecord::Migration[5.1]
 
     def change
@@ -14,3 +15,5 @@ class CreateHauntedHouses < ActiveRecord::Migration[5.1]
       end
     end
 end
+=======
+>>>>>>> 0b520c4b2ad4aea358a00909d2700cbe1e6122cb
